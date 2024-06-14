@@ -1,8 +1,7 @@
-# React + Vite
+# TrieSearch
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Added the search component to search through the list of words using trie data structure.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+(triesearch/src/screenshots/ss1.png)
+(triesearch/src/screenshots/ss2.png)
+(triesearch/src/screenshots/ss3.png)
